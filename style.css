@@ -256,6 +256,8 @@ body {
 
 .testimonial-item h3 {
     font-family: poppins, sans-serif;
+    color: rgb(34, 137, 255);
+    font-weight: 500;
 }
 
 .testimonial-item p {
